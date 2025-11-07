@@ -1,5 +1,14 @@
-<h1 align="center">Hey there 👋, I'm Khaing Lwin Thant</h1>
-<h3 align="center">💻 Passionate Software Engineering Student | 🌍 International Student in Türkiye</h3>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Khaing+Lwin+Thant+👋;" alt="Typing SVG" />
+  <h3>💻 Passionate Software Engineering Student | 🌍 International Student in Türkiye</h3>
+</a>
+
+</div>
+
+
 
 ---
 
