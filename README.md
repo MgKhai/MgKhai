@@ -8,7 +8,6 @@
 - 🌱 Currently focused on **Web development** and expanding my skills in **Cloud Services**.
 - 💡 Interested in **AI, Full-Stack Web Development, and Cloud Computing**.   
 - 📫 Reach me at **khainglwinthantycc@gmail.com**  
-- ⚡ Fun fact: *I love coding with a coffee in hand ☕.*
 
 ---
 
