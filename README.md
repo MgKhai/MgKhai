@@ -1,14 +1,10 @@
 
 <div align="center">
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&width=600&lines=Hi+there!+I'm+Khaing+Lwin+Thant+👋;" alt="Typing SVG" />
-  <h3>💻 Passionate Software Engineering Student | 🌍 International Student in Türkiye</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffA500&width=600&lines=Hi+there!+I'm+Khaing+Lwin+Thant+👋;" alt="Typing SVG" />
 </a>
-
+<h3><span style="color:#00BFFF;">💻 Passionate Software Engineering Student</span> | 🌍 International Student in Türkiye</h3>
 </div>
-
-
 
 ---
 
