@@ -4,10 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ffA500&width=600&lines=Hi+there!+I'm+Khaing+Lwin+Thant+👋;" alt="Typing SVG" />
 </a>
 </div>
-<h2 align="center">💻 Passionate Software Engineering Student | 🌍 International Student in Türkiye</h2>
 
 ### 🚀 About Me  
-- 🎓 I'm studying **Software Engineering** at **Beykoz University**.  
 - 🌱 Currently focused on **Web development** and expanding my skills in **Cloud Services**.
 - 💡 Interested in **AI, Full-Stack Web Development, and Cloud Computing**.   
 - 📫 Reach me at **khainglwinthantycc@gmail.com**  
